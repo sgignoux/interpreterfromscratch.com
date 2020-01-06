@@ -1,0 +1,4 @@
+baseURL = "http://interpreterfromscratch.com/"
+languageCode = "en-us"
+title = "Building a interpreter from scratch"
+theme = "basics"
